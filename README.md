@@ -14,8 +14,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot.jpg)
-
+![image](https://github.com/evsta24/QR-code-component/assets/159118157/36543e5e-c126-467b-a385-e1709d17884e)
 
 ## My process
 
@@ -27,5 +26,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Mobile-first workflow
 
 ## Author
-
 - Frontend Mentor - [@evsta24]
